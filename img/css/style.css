@@ -1,0 +1,118 @@
+body{
+
+	background-color: grey;
+}
+
+h1{
+	font-family: 'Oswald', sans-serif;
+	color:white;
+}
+.navbar-nav {
+      flex-direction: row;
+    }
+    
+.nav-link {
+      padding-right: .5rem !important;
+      padding-left: .5rem !important;
+}
+    
+    /* Fixes dropdown menus placed on the right side */
+.ml-auto .dropdown-menu {
+      left: auto !important;
+      right: 0px;
+}
+
+.navbutton{
+	border-radius:10;
+}
+
+.nopadding{
+	padding:0;
+}
+.logosymbol{
+	width: 80px;
+}
+.logotext{
+	width: 250px;
+}
+
+.navcolor{
+	background-color: rgba(255,255,255,1);
+}
+
+.fixed{
+	fixed	
+}
+.backgroundclr{
+	background-color:;
+}
+
+.font20{
+	font-size=500px
+}
+
+
+
+.textcenter{
+	text-align: center;
+}
+.position1 {
+    display: inline-block;
+    width: 40%;
+    border: 2px solid blue; 
+}
+.floatright{
+	float:right;
+}
+
+.centerimg{
+	text-align: center;
+	width: 50%;
+}
+
+.facebook{
+	font-size: 160px; 
+	color: blue;
+}
+
+.redback{
+	background:red;
+}
+
+.hello{
+	display: inline-block;
+	text-align:center;
+	width: 20%;
+}
+
+
+.background-img{
+	background: url("../img/halfstomach.jpg") no-repeat center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	height: 80vh;
+
+}
+
+.navbarfont{
+	font-size: 26px;
+	color: black;
+}
+.headertext{
+	padding-top:20vh;
+}
+#blue{
+	background-color: rgba(0,139,196,0.9);
+}
+
+.blue{
+	background-color: rgba(0,139,196,0.92);
+}
+/*.position2{
+	position:absolute;
+	left:500px;
+	top:-10px;
+}*/
+
