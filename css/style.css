@@ -1,6 +1,6 @@
 body{
 
-	background-color: white;
+	background-color: grey;
 }
 
 h1{
@@ -20,6 +20,10 @@ h1{
 .ml-auto .dropdown-menu {
       left: auto !important;
       right: 0px;
+}
+
+.navbutton{
+	border-radius:10;
 }
 
 .nopadding{
@@ -47,9 +51,7 @@ h1{
 	font-size=500px
 }
 
-.navbutton{
-	border-radius:10;
-}
+
 
 .textcenter{
 	text-align: center;
